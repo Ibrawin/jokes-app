@@ -1,2 +1,6 @@
-package com.ibrawin.jokesapp.service;public class JokeService {
+package com.ibrawin.jokesapp.service;
+
+public interface JokeService {
+
+    String getJoke();
 }
