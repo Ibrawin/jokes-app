@@ -1,4 +1,4 @@
-package com.ibrawin.jokesapp.conttroller;
+package com.ibrawin.jokesapp.controller;
 
 import com.ibrawin.jokesapp.service.JokeService;
 import org.springframework.stereotype.Controller;
